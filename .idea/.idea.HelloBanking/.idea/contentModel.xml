@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ContentModelStore">
+    <e p="C:\Users\admin\.Rider2018.1\system\resharper-host\local\Transient\ReSharperHost\v12\SolutionCaches\_HelloBanking.811284247.00" t="ExcludeRecursive" />
+    <e p="D:\JetBrain\HelloBanking" t="IncludeFlat">
+      <e p="HelloBanking" t="IncludeRecursive">
+        <e p="bin" t="ExcludeRecursive" />
+        <e p="controller" t="Include">
+          <e p="AccountController.cs" t="Include" />
+        </e>
+        <e p="entity" t="Include">
+          <e p="Account.cs" t="Include" />
+          <e p="Transaction.cs" t="Include" />
+        </e>
+        <e p="error" t="Include">
+          <e p="SpringHeroTransactionException.cs" t="Include" />
+        </e>
+        <e p="HelloBanking.csproj" t="IncludeRecursive" />
+        <e p="model" t="Include">
+          <e p="AccountModel.cs" t="Include" />
+          <e p="DBConnection.cs" t="Include" />
+        </e>
+        <e p="obj" t="ExcludeRecursive">
+          <e p="Debug" t="Include">
+            <e p="netcoreapp2.0" t="Include">
+              <e p="HelloBanking.AssemblyInfo.cs" t="Include" />
+            </e>
+          </e>
+        </e>
+        <e p="Program.cs" t="Include" />
+        <e p="utility" t="Include">
+          <e p="Hash.cs" t="Include" />
+          <e p="Utility.cs" t="Include" />
+        </e>
+        <e p="view" t="Include">
+          <e p="ApplicationView.cs" t="Include" />
+        </e>
+      </e>
+      <e p="HelloBanking.sln" t="IncludeFlat" />
+      <e p="packages" t="ExcludeRecursive" />
+    </e>
+  </component>
+</project>

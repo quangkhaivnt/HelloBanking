@@ -1,0 +1,11 @@
+D:\JetBrain\HelloBanking\HelloBanking\bin\Debug\netcoreapp2.0\HelloBanking.deps.json
+D:\JetBrain\HelloBanking\HelloBanking\bin\Debug\netcoreapp2.0\HelloBanking.runtimeconfig.json
+D:\JetBrain\HelloBanking\HelloBanking\bin\Debug\netcoreapp2.0\HelloBanking.runtimeconfig.dev.json
+D:\JetBrain\HelloBanking\HelloBanking\bin\Debug\netcoreapp2.0\HelloBanking.dll
+D:\JetBrain\HelloBanking\HelloBanking\bin\Debug\netcoreapp2.0\HelloBanking.pdb
+D:\JetBrain\HelloBanking\HelloBanking\obj\Debug\netcoreapp2.0\HelloBanking.csprojAssemblyReference.cache
+D:\JetBrain\HelloBanking\HelloBanking\obj\Debug\netcoreapp2.0\HelloBanking.csproj.CoreCompileInputs.cache
+D:\JetBrain\HelloBanking\HelloBanking\obj\Debug\netcoreapp2.0\HelloBanking.AssemblyInfoInputs.cache
+D:\JetBrain\HelloBanking\HelloBanking\obj\Debug\netcoreapp2.0\HelloBanking.AssemblyInfo.cs
+D:\JetBrain\HelloBanking\HelloBanking\obj\Debug\netcoreapp2.0\HelloBanking.dll
+D:\JetBrain\HelloBanking\HelloBanking\obj\Debug\netcoreapp2.0\HelloBanking.pdb
